@@ -1,11 +1,16 @@
-<h1 align="center">Hi, Ade</h1>
-<h3 align="center">Hi my name is Ade or you can call me Yoris. Nice to meet you !</h3>
+<h1 align="center">Hi, I'm Ade</h1>
+<h3 align="center">Hi my name is Ade or you can call me DEYO. i was website dev <br> <a align="center" href="https://yorisofficial.github.io/my-portofolio/">Portofolio</a>
+</h3>
 
-- This is my portofolio design in 2021 [Portofolio](https://yorisofficial.github.io/my-portofolio/)
 
-- Wedding Site [PREMIUM GOLD](https://yorisofficial.github.io/Premium-gold/)
+<h3>Our Project :</h3>
+- Wedding Site [Open Me!](https://yorisofficial.github.io/Premium-gold/)
 
-- Wedding Site [LIGHT GREEN](https://yorisofficial.github.io/Light-green/)
+- Wedding Site [Open Me!](https://yorisofficial.github.io/Light-green/)
+
+- GREAT MARTIAL ARTS INDONESIA [Open Me!](https://yorisofficial.github.io/great-arts/)
+
+- GAME STORE  [Open Me!](https://yorisofficial.github.io/gamestoreio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
