@@ -14,8 +14,8 @@
 <h3 align="center">great-arts</h3>
 <p align="center"><a href="https://yorisofficial.github.io/great-arts/" target="blank">Click Me!</a></p>
 
-<h3 align="center">gamestoreio</h3>
-<p align="center"><a href="https://yorisofficial.github.io/gamestoreio/" target="blank">Click Me!</a></p>
+<h3 align="center">wellpages</h3>
+<p align="center"><a href="https://yorisofficial.github.io/Wellpage/" target="blank">Click Me!</a></p>
 
 <h1 align="center">Connect with me:</h1>
 
