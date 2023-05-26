@@ -2,21 +2,6 @@
 <h3 align="center">Hi my name is Ade or you can call me DEYO. i was website dev <br> <a align="center" href="https://yorisofficial.github.io/my-portofolio/">Portofolio</a>
 </h3>
 
-
-<h1 align="center">Publish Project :</h1>
-
-<h3 align="center">Premium-gold</h3>
-<p align="center"><a href="https://yorisofficial.github.io/Premium-gold/" target="blank">Click Me!</a></p>
-    
-<h3 align="center">Light-green</h3>
-<p align="center"><a href="https://yorisofficial.github.io/Light-green/" target="blank">Click Me!</a></p>
-
-<h3 align="center">great-arts</h3>
-<p align="center"><a href="https://yorisofficial.github.io/great-arts/" target="blank">Click Me!</a></p>
-
-<h3 align="center">wellpages</h3>
-<p align="center"><a href="https://yorisofficial.github.io/Wellpage/" target="blank">Click Me!</a></p>
-
 <h1 align="center">Connect with me:</h1>
 
 <p align="center">
