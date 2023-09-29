@@ -1,12 +1,26 @@
-<h1 align="center">Hi, I'm Ade</h1>
-<h3 align="center">Hi my name is Ade or you can call me DEYO. i was website dev <br> <a align="center" href="https://yorisofficial.github.io/portofolio/">Portofolio</a>
-</h3>
 
-<h1 align="center">Connect with me:</h1>
+## 🚀 About Me
+Lepas, terbang, dan lupakan!
 
-<p align="center">
-<a href="https://fb.com/official.yoris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="official.yoris" height="30" width="40" /></a>
-<a href="https://instagram.com/yode_78" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yode_78" height="30" width="40" /></a>
-<a href="https://dribbble.com/yode_78" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="yode_78" height="30" width="40" /></a>
-<a href="https://discord.gg/#1300" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#1300" height="30" width="40" /></a>
-</p>
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://yorisofficial.github.io/)
+[![instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yode_78)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ade-yoga-wiyadnyana/)
+[![dribbble](https://img.shields.io/badge/dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/yode_78)
+
+
+
+
+## 🛠 Skills
+
+| #           |          |
+|------------------|------------------|
+| Pemrograman      | HTML, CSS, JavaScript, Python |
+| Framework        | React Js, Next Js, Alpine Js, Tailwind CSS |
+| Desain UI/UX     | Figma, Adobe XD |
+| Database         | MySQL, MongoDB |
+| Pengetahuan Umum | Git |
+
+
+
