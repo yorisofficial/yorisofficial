@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ade</h1>
-<h3 align="center">Hi my name is Ade or you can call me DEYO. i was website dev <br> <a align="center" href="https://yorisofficial.github.io/my-portofolio/">Portofolio</a>
+<h3 align="center">Hi my name is Ade or you can call me DEYO. i was website dev <br> <a align="center" href="https://yorisofficial.github.io/portofolio/">Portofolio</a>
 </h3>
 
 <h1 align="center">Connect with me:</h1>
